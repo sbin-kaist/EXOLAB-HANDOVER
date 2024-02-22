@@ -31,10 +31,10 @@
 
 * 개발환경: ubuntu/mac
 * [crocoddyl library (mpc solver)](https://github.com/loco-3d/crocoddyl) 기반 MPC를 사용한 stride-by-stride gait pattern generation
-<!--* 학습 자료: pinocchio 및 MPC 관련 선행지식, [Memmo 2020 summer school](https://memory-of-motion.github.io/summer-school/materials)-->
 * [발표자료](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EVG7Sl8Mp3JAkbJYEwYBgW4BaW19olpXVQM0K0w0xVxBMQ?e=RmCqWh) (연구실 teams 계정으로 접근 가능)
 * [github repo](https://github.com/sbin-kaist/WALKON5-SingleGaitWPG-MPC) 내 README 참고
 * *Possible future works:* 실시간 피드백 제어로의 확장, WalkON5 제어 응용, RL 응용
+<!--* 학습 자료: pinocchio 및 MPC 관련 선행지식, [Memmo 2020 summer school](https://memory-of-motion.github.io/summer-school/materials)-->
   
 ## WalkON5 Isaac SIM
 
