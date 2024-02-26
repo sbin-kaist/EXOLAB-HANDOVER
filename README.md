@@ -64,6 +64,11 @@
 * [github repo](https://github.com/sbin-kaist/DNN-GAIT-PHASE-MODE) 내 README 참고
 * *Possible future works:* 피험자 추가 및 실적화 (진행되지 않았음)
 
+## ETC.
+
+** [pMMG pneumatic sensor (MS5607) SPI library](https://github.com/sbin-github/MS5607-SPI-master) **
+
+
 ---
 # (Eng.) EXOLAB-HANDOVER
 
@@ -121,3 +126,8 @@
 * [Hyeonseok Seo's Master Thesis (Part CH 3)](https://rsckaist.sharepoint.com/:b:/s/RSCLab/EcjUzsVXQWRCifrpdDTI4jQBIHhCOvGPYPCt-9JlK_tMRQ?e=kpeKx0) (accessible with lab's teams account).
 * Refer to the README in [this GitHub repo](https://github.com/sbin-kaist/SHS-THESIS-OPT).
 * *Possible future works:* Additional subjects and actual optimization
+
+
+## ETC.
+
+** [pMMG pneumatic sensor (MS5607) SPI library](https://github.com/sbin-github/MS5607-SPI-master)*
