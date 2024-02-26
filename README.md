@@ -66,7 +66,7 @@
 
 ## ETC.
 
-** [pMMG pneumatic sensor (MS5607) SPI library](https://github.com/sbin-github/MS5607-SPI-master) **
+[**pMMG pneumatic sensor (MS5607) SPI library**](https://github.com/sbin-github/MS5607-SPI-master)
 
 
 ---
@@ -130,4 +130,4 @@
 
 ## ETC.
 
-** [pMMG pneumatic sensor (MS5607) SPI library](https://github.com/sbin-github/MS5607-SPI-master)*
+[**pMMG pneumatic sensor (MS5607) SPI library**](https://github.com/sbin-github/MS5607-SPI-master)
