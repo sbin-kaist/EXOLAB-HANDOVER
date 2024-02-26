@@ -76,7 +76,7 @@
 * All related research repositories are private and can only be accessed by lab members (share your GitHub ID).
 * Use the Issues tab in each repo to report bugs or request improvements.
 * It is recommended to download using **```Download ZIP```** instead of **```git clone```** to avoid management issues with the free account.
-* Similarly, since all members with access can modify the code, it is recommended to download and make changes to your personal code. 
+* **Similarly, since all members with access can modify the code, it is recommended to download and make changes to your personal code.**
   **(For git users, branch management is recommended).**
 
 ## Generating URDF from SolidWorks Files
@@ -103,8 +103,8 @@
 
 * Development Environment: Ubuntu/Mac
 * Stride-by-stride gait pattern generation using the [crocoddyl library (MPC solver)](https://github.com/loco-3d/crocoddyl).
-* Learning Materials: Previous knowledge of Pinocchio and MPC, [Memmo 2020 summer school](https://memory-of-motion.github.io/summer-school/materials).
-* [Presentation Material](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EVG7Sl8Mp3JAkbJYEwYBgW4BaW19olpXVQM0K0w0xVxBMQ?e=RmCqWh) (accessible with lab's teams account).
+<!--* Learning Materials: Previous knowledge of Pinocchio and MPC, [Memmo 2020 summer school](https://memory-of-motion.github.io/summer-school/materials).-->
+* [Presentation Material](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EVG7Sl8Mp3JAkbJYEwYBgW4BaW19olpXVQM0K0w0xVxBMQ?e=RmCqWh) (accessible with lab's Teams account).
 * Refer to the README in [this GitHub repo](https://github.com/sbin-kaist/WALKON5-SingleGaitWPG-MPC).
 * *Possible future works:* Extension to real-time feedback control, application to WalkON5 control, and RL applications.
   
@@ -114,7 +114,7 @@
 
 * Development Environment: Ubuntu + NVIDIA Graphics Card
 * WalkON5 simulation platform
-* [Presentation Material](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EYnbRE4QcotIk8Je03JMZ_EBRT5CXE1I-xJF1KuB1XXX_g?e=wNZvNn) (accessible with lab's teams account).
+* [Presentation Material](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EYnbRE4QcotIk8Je03JMZ_EBRT5CXE1I-xJF1KuB1XXX_g?e=wNZvNn) (accessible with lab's Teams account).
 * Refer to the README in [this GitHub repo](https://github.com/sbin-kaist/WALKON5-ISAACSIM).
 * *Possible future works:* Controller testing, vision applications.
 
@@ -127,6 +127,14 @@
 * Refer to the README in [this GitHub repo](https://github.com/sbin-kaist/SHS-THESIS-OPT).
 * *Possible future works:* Additional subjects and actual optimization
 
+## Deep Learning (Gait Phase & Mode Estimation)
+
+![Gait Analysis](data/figure/fig_Gait.png)
+
+* Development Environment: Ubuntu/Mac/Windows
+* Presentation materials can be accessed with the lab's Teams account [here](https://rsckaist.sharepoint.com/:p:/s/RSCLab/EXVX33B7gThHlFooSdthjWYBimtZKX2jKAyLnqHtSebmpA?e=AUlIu6).
+* Visit the [github repo](https://github.com/sbin-kaist/DNN-GAIT-PHASE-MODE) README for details.
+* *Possible future works:* Additional participant recruitment and optimization (not yet implemented).
 
 ## ETC.
 
