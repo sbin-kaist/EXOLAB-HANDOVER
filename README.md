@@ -25,7 +25,7 @@
 * [github repo](https://github.com/sbin-github/WALKON5_SingleGaitWPG_MPC) 내 README 참고
 -->
 
-## WPG (Non-linear MPC)
+## [WPG (Non-linear MPC)](https://github.com/sbin-kaist/WALKON5-SingleGaitWPG-MPC)
 
 <img src="data/figure/fig_WPG.png" width="50%">
 
@@ -36,7 +36,7 @@
 * *Possible future works:* 실시간 피드백 제어로의 확장, WalkON5 제어 응용, RL 응용
 <!--* 학습 자료: pinocchio 및 MPC 관련 선행지식, [Memmo 2020 summer school](https://memory-of-motion.github.io/summer-school/materials)-->
   
-## WalkON5 Isaac SIM
+## [WalkON5 Isaac SIM](https://github.com/sbin-kaist/WALKON5-ISAACSIM)
 
 <img src="data/figure/fig_SIM.png" width="50%">
 
@@ -46,7 +46,7 @@
 * [github repo](https://github.com/sbin-kaist/WALKON5-ISAACSIM) 내 README 참고
 * *Possible future works:* 제어기 테스트, 비전 응용
 
-## Parameter Adaptation (서현석 학생 졸업주제: 다차원 보조변수 최적화)
+## [Parameter Adaptation](https://github.com/sbin-kaist/SHS-THESIS-OPT) (서현석 학생 졸업주제: 다차원 보조변수 최적화)
 
 <img src="data/figure/fig_SHS.png" width="50%">
 
@@ -55,7 +55,7 @@
 * [github repo](https://github.com/sbin-kaist/SHS-THESIS-OPT) 내 README 참고
 * *Possible future works:* 피험자 추가 및 실적화 (진행되지 않았음)
 
-## Deep Learning (Gait Phase & Mode Estimation)
+## [Deep Learning](https://github.com/sbin-kaist/DNN-GAIT-PHASE-MODE) (Gait Phase & Mode Estimation)
 
 <img src="data/figure/fig_Gait.png" width="50%">
 
